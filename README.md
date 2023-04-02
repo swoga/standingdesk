@@ -15,6 +15,19 @@ However, the controller is probably also used in other models.
 Manufacturer: Hangzhou Winner Intelligent Technology Co., Ltd  
 Model: WN17CM3
 
+# RJ45 Pinout
+
+| Pin | Color | Function |
+| - | - | - |
+| 1 | | n.c. |
+| 2 | blue | RX |
+| 3 | black | GND |
+| 4 | yellow | TX |
+| 5 | red | 5V |
+| 6 | | n.c. |
+| 7 | | n.c. |
+| 8 | | n.c. |
+
 # UART Settings
 Baud Rate: 19200  
 Data Bits: 8  
